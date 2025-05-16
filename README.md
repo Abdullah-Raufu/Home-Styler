@@ -31,8 +31,17 @@ This project was developed as a collaborative student project. Contributions inc
 ## 🚀 Getting Started
 
 To run this project locally:
-
 ```bash
+
 git clone https://github.com/Abdullah-Raufu/Home-Styler.git
 cd Home-Styler
 open index.html
+```
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this project for educational and non-commercial purposes.  
+See the [LICENSE](LICENSE) file for more details.
+
